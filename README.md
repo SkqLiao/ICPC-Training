@@ -1,6 +1,6 @@
 # ICPC Training
 
-Code about my ICPC training
+Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor)
 
 ## Exercise
 
