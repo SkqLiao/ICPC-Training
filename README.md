@@ -17,4 +17,5 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor)
 - [2020-2021 ACM-ICPC, Asia Nanjing Regional Contest (XXI Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102992) 2021/10/04
   - A C D E F H I J K L M / B G
 - [2018-2019 ACM-ICPC, Asia Shenyang Regional Contest](https://codeforces.com/gym/101955) 2021/10/05
+  - C E G I J K L M / A B D F H
 
