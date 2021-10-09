@@ -13,6 +13,7 @@ Code about my ICPC training
 ## VP
 
 - [The 2020 ICPC Asia Shenyang Regional Programming Contest](https://codeforces.com/gym/103202) 2021/10/03
+  - C D F G H I K M / A B E J L
 - [2020-2021 ACM-ICPC, Asia Nanjing Regional Contest (XXI Open Cup, Grand Prix of Nanjing)](https://codeforces.com/gym/102992) 2021/10/04
 - [2018-2019 ACM-ICPC, Asia Shenyang Regional Contest](https://codeforces.com/gym/101955) 2021/10/05
 
