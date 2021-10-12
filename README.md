@@ -26,6 +26,6 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor)
 - [The 2021 ICPC Asia Regionals Online Contest (I)](https://pintia.cn/market/item/1439765428045058048) 2021/9/18
   - A B D F G H K / C E I J
 - [The 2021 ICPC Asia Regionals Online Contest (II)](https://pintia.cn/market/item/1442013218528759808) 2021/9/26
-  - G H J K L / A B C D E F I M
+  - G H J K L M / A B C D E F I
 - [2021中国大学生程序设计竞赛（CCPC）- 网络选拔赛（重赛）](https://acm.hdu.edu.cn/contest/problems?cid=1038) 2021/10/10
   - B D E F H I J K / A C G L
