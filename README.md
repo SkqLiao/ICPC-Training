@@ -18,7 +18,7 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor)
   - A C D E F H I J K L M / B G
 - [2018-2019 ACM-ICPC, Asia Shenyang Regional Contest](https://codeforces.com/gym/101955) 2021/10/05
   - C E G I J K L M / A B D F H
-- [2018 China Collegiate Programming Contest - Guilin Site](https://codeforces.com/gym/102823) 2021/10/16
+- [2020 China Collegiate Programming Contest, Weihai Site](https://codeforces.com/gym/102798) 2021/10/16
   - A B C D E G H L / F I J K
 
 ## Contest
