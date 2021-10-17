@@ -21,7 +21,7 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor)
 - [2020 China Collegiate Programming Contest, Weihai Site](https://codeforces.com/gym/102798) 2021/10/16
   - A B C D E G H L / F I J K
 - [2018 China Collegiate Programming Contest - Guilin Site](https://codeforces.com/gym/102823) 2021/10/17
-  - B D G H J L / A C E F I K
+  - A B D G H J L / C E F I K
 
 ## Contest
 
