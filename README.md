@@ -38,6 +38,6 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 
 ## AtCoder
 
-- [AtCoder Beginner Contest 224](https://atcoder.jp/contests/abc224)
+- [AtCoder Beginner Contest 224](https://atcoder.jp/contests/abc224) 2021/10/28-2021/10/19
   - A B C D E F G H
 
