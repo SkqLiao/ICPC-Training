@@ -41,13 +41,14 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 - [AtCoder Beginner Contest 224](https://atcoder.jp/contests/abc224) 2021/10/28-2021/10/19
 <details><summary>Tasks</summary>	
 <ul>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_a">A	Tires</a></li>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_b">B	Mongeness</a></li>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_c">C	Triangle?</a></li>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_d">D	8 Puzzle on Graph</a></li>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_e">E	Integers on Grid</a></li>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_f">F	Problem where +s Separate Digits</a></li>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_g">G	Roll or Increment</a></li>
-<li><a href="https://atcoder.jp/contests/abc224/tasks/abc224_h">H	Security Camera</a></li>
+<li><strong>A	Tires</strong></li>
+<li><strong>B	Mongeness</strong></li>
+<li><strong>C	Triangle?</strong></li>
+<li><strong>D	8 Puzzle on Graph</strong>: bfs</li>
+<li><strong>E	Integers on Grid</strong>: dp</li>
+<li><strong>F	Problem where +s Separate Digits</strong>: reclusion</li>
+<li><strong>G	Roll or Increment</strong>: possibilities</li>
+<li><strong>H	Security Camera</strong>: flows</li>
 </ul>
 </details>
+
