@@ -45,6 +45,7 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 | L    | Traveling in the Grid World | 73     | 1 s, 1024 MB |        |
 | M    | Gitignore                   | 747    | 1 s, 1024 MB | PASSED |
 </details>
+
 ## Official Contests
 
 - [2021中国大学生程序设计竞赛（CCPC）- 网络选拔赛](https://acm.hdu.edu.cn/contests/contest_show.php?cid=1031) 2021/8/28
