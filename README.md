@@ -26,6 +26,9 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
   - A D F H J K / B C E G I L
 - [2020 ICPC Shanghai Site](https://codeforces.com/gym/102900) 2021/10/30
 
+<details>
+<summary>Details</summary>
+
 | #    | PROBLEM                     | PASSED | LIMIT        | STATUS |
 | ---- | --------------------------- | ------ | ------------ | ------ |
 | A    | Wowoear                     | 0      | 7 s, 1024 MB |        |
@@ -41,7 +44,7 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 | K    | Traveling Merchant          | 13     | 1 s, 1024 MB | FIXED  |
 | L    | Traveling in the Grid World | 73     | 1 s, 1024 MB |        |
 | M    | Gitignore                   | 747    | 1 s, 1024 MB | PASSED |
-
+</details>
 ## Official Contests
 
 - [2021中国大学生程序设计竞赛（CCPC）- 网络选拔赛](https://acm.hdu.edu.cn/contests/contest_show.php?cid=1031) 2021/8/28
