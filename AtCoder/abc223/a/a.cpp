@@ -1,5 +1,5 @@
 /*
- * @date:2021-10-26 12:08:39
+ * @date:
  * @source:
 */
 #include <bits/stdc++.h>
@@ -25,17 +25,15 @@ template<class T, class G> bool chkMin(T &x, G y) {
     return y < x ? x = y, 1 : 0;
 }
 
-string s;
-
 void solve() {
-    cin >> s;
-    if (s.back() == 'r') cout << "er" << endl;
-    else cout << "ist" << endl;
+
 }
 
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    solve();
+    int x;
+    cin >> x;
+    cout << (x && x % 100 == 0 ? "Yes" : "No") << endl;
     return 0;
 }
