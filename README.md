@@ -26,26 +26,6 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
   - A D F H J K / B C E G I L
 - [2020 ICPC Shanghai Site](https://codeforces.com/gym/102900) 2021/10/30
 
-<details>
-<summary>Details</summary>
-
-| #    | PROBLEM                     | PASSED | LIMIT        | STATUS |
-| ---- | --------------------------- | ------ | ------------ | ------ |
-| A    | Wowoear                     | 0      | 7 s, 1024 MB |        |
-| B    | Mine Sweeper II             | 667    | 1 s, 1024 MB | PASSED |
-| C    | Sum of Log                  | 212    | 1 s, 1024 MB | PASSED |
-| D    | Walker                      | 420    | 1 s, 1024 MB | PASSED |
-| E    | The Journey of Geor Autumn  | 85     | 1 s, 1024 MB | PASSED |
-| F    | Fountains                   | 15     | 6 s, 1024 MB |        |
-| G    | Fibonacci                   | 974    | 1 s, 1024 MB | PASSED |
-| H    | Rice Arrangement            | 121    | 1 s, 1024 MB |        |
-| I    | Sky Garden                  | 251    | 1 s, 1024 MB | PASSED |
-| J    | Octasection                 | 0      | 3 s, 1024 MB |        |
-| K    | Traveling Merchant          | 13     | 1 s, 1024 MB | FIXED  |
-| L    | Traveling in the Grid World | 73     | 1 s, 1024 MB |        |
-| M    | Gitignore                   | 747    | 1 s, 1024 MB | PASSED |
-</details>
-
 ## Official Contests
 
 - [2021中国大学生程序设计竞赛（CCPC）- 网络选拔赛](https://acm.hdu.edu.cn/contests/contest_show.php?cid=1031) 2021/8/28
