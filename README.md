@@ -93,6 +93,7 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 </tbody>
 </table>
 </details>
+
 ## Codeforces
 
 - [Codeforces Round #753 (Div. 3)](https://codeforces.com/contest/1607) 2021/11/04
