@@ -72,17 +72,47 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 <li><strong>H	Security Camera</strong>: flows</li>
 </ul>
 </details>
+
 ## Codeforces
 
 - [Codeforces Round #753 (Div. 3)](https://codeforces.com/contest/1607) 2021/11/04
 <details><summary>Tasks</summary>	
-| [A](https://codeforces.com/contest/1607/problem/A) | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) |
-| -------------------------------------------------- | ------------------------------------------------------------ |
-| [B](https://codeforces.com/contest/1607/problem/B) | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) |
-| [C](https://codeforces.com/contest/1607/problem/C) | [Minimum Extraction](https://codeforces.com/contest/1607/problem/C) |
-| [D](https://codeforces.com/contest/1607/problem/D) | [Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) |
-| [E](https://codeforces.com/contest/1607/problem/E) | [Robot on the Board 1](https://codeforces.com/contest/1607/problem/E) |
-| [F](https://codeforces.com/contest/1607/problem/F) | [Robot on the Board 2](https://codeforces.com/contest/1607/problem/F) |
-| [G](https://codeforces.com/contest/1607/problem/G) | [Banquet Preparations 1](https://codeforces.com/contest/1607/problem/G) |
-| [H](https://codeforces.com/contest/1607/problem/H) | [Banquet Preparations 2](https://codeforces.com/contest/1607/problem/H) |
+<table>
+<thead>
+  <tr>
+    <th>A</th>
+    <th>Linear Keyboard</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>B</td>
+    <td>Odd Grasshopper</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Minimum Extraction</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>Blue-Red Permutation</td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>Robot on the Board 1</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>Robot on the Board 2</td>
+  </tr>
+  <tr>
+    <td>G</td>
+    <td>Banquet Preparations 1</td>
+  </tr>
+  <tr>
+    <td>H</td>
+    <td>Banquet Preparations 2</td>
+  </tr>
+</tbody>
+</table>
 </details>
