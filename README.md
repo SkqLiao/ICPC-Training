@@ -61,60 +61,111 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 
 - [AtCoder Beginner Contest 224](https://atcoder.jp/contests/abc224) 2021/10/28-2021/10/19
 <details><summary>Tasks</summary>	
-<ul>
-<li><strong>A	Tires</strong></li>
-<li><strong>B	Mongeness</strong></li>
-<li><strong>C	Triangle?</strong></li>
-<li><strong>D	8 Puzzle on Graph</strong>: bfs</li>
-<li><strong>E	Integers on Grid</strong>: dp</li>
-<li><strong>F	Problem where +s Separate Digits</strong>: reclusion</li>
-<li><strong>G	Roll or Increment</strong>: possibilities</li>
-<li><strong>H	Security Camera</strong>: flows</li>
-</ul>
+<table>
+<thead>
+  <tr>
+    <th>Task </th>
+    <th>Name</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_a">A</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_a">Tires</a></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_b">B</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_b">Mongeness</a></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_c">C</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_c">Triangle?</a></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_d">D</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_d">8 Puzzle on Graph</a></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_e">E</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_e">Integers on Grid</a></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_f">F</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_f">Problem where +s Separate Digits</a></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_g">G</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_g">Roll or Increment</a></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_h">H</a></td>
+    <td><a href="https://atcoder.jp/contests/abc224/tasks/abc224_h">Security Camera 2</a></td>
+    <td>AC</td>
+  </tr>
+</tbody>
+</table>
 </details>
-
 ## Codeforces
 
 - [Codeforces Round #753 (Div. 3)](https://codeforces.com/contest/1607) 2021/11/04
+<details><summary>Tasks</summary>
 <table>
 <thead>
   <tr>
     <th>#</th>
     <th>Name</th>
+    <th>Status</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>A</td>
-    <td>Linear Keyboard</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/A">A</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/A">Linear Keyboard</a></td>
+    <td>AC</td>
   </tr>
   <tr>
-    <td>B</td>
-    <td>Odd Grasshopper</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/B">B</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/B">Odd Grasshopper</a></td>
+    <td>AC</td>
   </tr>
   <tr>
-    <td>C</td>
-    <td>Minimum Extraction</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/C">C</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/C">Minimum Extraction</a></td>
+    <td>AC</td>
   </tr>
   <tr>
-    <td>D</td>
-    <td>Blue-Red Permutation</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/D">D</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/D">Blue-Red Permutation</a></td>
+    <td>AC</td>
   </tr>
   <tr>
-    <td>E</td>
-    <td>Robot on the Board 1</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/E">E</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/E">Robot on the Board 1</a></td>
+    <td>AC</td>
   </tr>
   <tr>
-    <td>F</td>
-    <td>Robot on the Board 2</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/F">F</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/F">Robot on the Board 2</a></td>
+    <td>AC</td>
   </tr>
   <tr>
-    <td>G</td>
-    <td>Banquet Preparations 1</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/G">G</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/G">Banquet Preparations 1</a></td>
+    <td>AC</td>
   </tr>
   <tr>
-    <td>H</td>
-    <td>Banquet Preparations 2</td>
+    <td><a href="https://codeforces.com/contest/1607/problem/H">H</a></td>
+    <td><a href="https://codeforces.com/contest/1607/problem/H">Banquet Preparations 2</a></td>
+    <td>AC</td>
   </tr>
 </tbody>
 </table>
+</details>
