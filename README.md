@@ -76,15 +76,18 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 ## Codeforces
 
 - [Codeforces Round #753 (Div. 3)](https://codeforces.com/contest/1607) 2021/11/04
-<details><summary>Tasks</summary>	
 <table>
 <thead>
   <tr>
-    <th>A</th>
-    <th>Linear Keyboard</th>
+    <th>#</th>
+    <th>Name</th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>A</td>
+    <td>Linear Keyboard</td>
+  </tr>
   <tr>
     <td>B</td>
     <td>Odd Grasshopper</td>
@@ -115,4 +118,3 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
   </tr>
 </tbody>
 </table>
-</details>
