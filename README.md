@@ -101,7 +101,9 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 </tbody>
 </table>
 </details>
+
 - [2021年中国大学生程序设计竞赛女生专场](https://codeforces.com/gym/103389) 2021/11/09
+
 <details><summary>Tasks</summary>	
 <table>
 <thead>
