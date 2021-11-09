@@ -2,6 +2,12 @@
 
 Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 
+## Contests
+
+- 2021 CCPC Guilin 2021/11/7
+  - Rank: 60/238
+  - Medal: Silver
+
 ## Exercises
 
 - [2019 China Collegiate Programming Contest Final (CCPC-Final 2019)](https://codeforces.com/gym/102431)
@@ -25,6 +31,145 @@ Code about ICPC training of my team (Durant_Lee/SkqLiiiao/vandoor) and myself.
 - [2020 China Collegiate Programming Contest Changchun Onsite](https://codeforces.com/gym/102832) 2021/10/23
   - A D F H J K / B C E G I L
 - [2020 ICPC Shanghai Site](https://codeforces.com/gym/102900) 2021/10/30
+- [2020-2021 ICPC Northwestern European Regional Programming Contest (NWERC 2020)](https://codeforces.com/gym/103049) 2021/11/08
+
+<details><summary>Tasks</summary>
+<table>
+<thead>
+  <tr>
+    <th>#</th>
+    <th>Name</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/A">A</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/A">Atomic Energy</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/B">B</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/B">Bulldozer</a><br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/C">C</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/C">Contest Struggles</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/D">D</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/D">Dragon Balls</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/E">E</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/E">Endgame</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/F">F</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/F">Flight Collision</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/G">G</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/G">Great Expectations</a><br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/H">H</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/H">Hot Springs</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/I">I</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/I">Island Tour</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/J">J</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/J">Joint Excavation</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103049/problem/K">K</a></td>
+    <td><a href="https://codeforces.com/gym/103049/problem/K">Keyboardd</a><br></td>
+    <td>AC</td>
+  </tr>
+</tbody>
+</table>
+</details>
+- [2021年中国大学生程序设计竞赛女生专场](https://codeforces.com/gym/103389) 2021/11/09
+<details><summary>Tasks</summary>	
+<table>
+<thead>
+  <tr>
+    <th>#</th>
+    <th>Name</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/A">A</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/A">公交线路</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/B">B</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/B">攻防演练</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/C">C</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/C">连锁商店</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/D">D</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/D">修建道路</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/E">E</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/E">被遗忘的计划</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/F">F</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/F">地图压缩</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/G">G</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/G">3G网络</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/H">H</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/H">4G网络</a><br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/I">I</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/I">驾驶卡丁车</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/J">J</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/J">最大权边独立集</a><br></td>
+    <td>AC</td>
+  </tr>
+  <tr>
+    <td><a href="https://codeforces.com/gym/103389/problem/K">K</a></td>
+    <td><a href="https://codeforces.com/gym/103389/problem/K">音乐游戏</a><br></td>
+    <td>AC</td>
+  </tr>
+</tbody>
+</table>
+</details>
 
 ## Official Contests
 
